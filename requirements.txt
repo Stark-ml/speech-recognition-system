@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+python_speech_features
+scikit-learn
+vosk
